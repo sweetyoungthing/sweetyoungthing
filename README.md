@@ -17,6 +17,8 @@
     <a href="https://github.com/sweetyoungthing?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://github.com/sweetyoungthing?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
     <a href="https://github.com/sweetyoungthing?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+    <a href="https://blog.csdn.net/sweetyoungThug" target="_blank"><img alt="CSDN" src="https://img.shields.io/badge/-CSDN-D71F1A?style=flat-square&logo=csdn&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
