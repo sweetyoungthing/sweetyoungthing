@@ -19,6 +19,7 @@
     <a href="https://github.com/sweetyoungthing?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
     <a href="https://blog.csdn.net/m0_74436794?type=blog" target="_blank"><img alt="CSDN" src="https://img.shields.io/badge/-CSDN-D71F1A?style=flat-square&logo=csdn&logoColor=white"/></a>
     <a href="https://gitee.com/sweetyoungthing" target="_blank"><img alt="Gitee" src="https://img.shields.io/badge/-Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white"/></a>
+    <a href="https://www.xiaohongshu.com/user/profile/62e90aeb000000001f005613" target="_blank"><img alt="小红书" src="https://img.shields.io/badge/-小红书-FF2449?style=flat-square&logo=heart&logoColor=white"/></a>
 </p>
 
 <p align="center">
