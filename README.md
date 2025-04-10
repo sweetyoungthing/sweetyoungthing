@@ -30,22 +30,28 @@
     <a href="https://github.com/sweetyoungthing/sweetyoungthing" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/sweetyoungthing/sweetyoungthing?label=profile%20updated&style=flat-square"></a>
 </p>
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="width: 48%;">
-    ### 🤖 AI & MachineLearning
-    <p> 
-      <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,sklearn,opencv,numpy,scipy,pandas,matplotlib,seaborn"> 
-    </p>
+<table>
+<tr>
+<td width="50%">
 
-    ### 💻 Web develop
-    <p> 
-      <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,vue,react,java,spring,flask">
-    </p>
-  </div>
-  <div style="width: 48%;">
-    ![技术相关图片](images/14251744292106_.pic_hd.jpg)
-  </div>
-</div>
+### 🤖 AI & MachineLearning
+<p> 
+  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,sklearn,opencv,numpy,scipy,pandas,matplotlib,seaborn"> 
+</p>
+
+### 💻 Web develop
+<p> 
+  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,vue,react,java,spring,flask">
+</p>
+
+</td>
+<td width="50%">
+
+![技术相关图片](images/14251744292106_.pic_hd.jpg)
+
+</td>
+</tr>
+</table>
 
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sweetyoungthing&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
