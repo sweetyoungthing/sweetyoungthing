@@ -4,7 +4,7 @@
   <img src="https://app.svg.la/generate/67f75b3059113_20250410054624.svg" alt="YNU Logo" width="60%">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Simplified+Chinese&size=30&pause=1000&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B;Hello%2C+my+friend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Simplified+Chinese&size=30&duration=2500&pause=500&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B;Hello%2C+my+friend;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%2C%E7%A7%81%E3%81%AE%E5%8F%8B%E9%81%94%E3%81%A7%E3%81%99;Bonjour+mon+ami;Hola%2C+mi+amigo;Hallo%2C+mein+freund;Hallo%2C+mein+freund)](https://git.io/typing-svg)
 # WHO I AM？
 - I am a student majoring in Software Engineering at Yunnan University.
 - My interests: **Algorithm**, **DL**, **Software Development**, **LLM**, **CV**, **Bioinformatics**, **NLP**.
