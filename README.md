@@ -7,7 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Simplified+Chinese&size=35&pause=1000&vCenter=true&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B)](https://git.io/typing-svg)
 # WHO I AM？
 - I am a student majoring in Software Engineering at Yunnan University.
-- My interests: DL, software development, LLM, CV, bioinformatics, NLP.
+- My interests: **Algorithm**, **DL**, **Software Development**, **LLM**, **CV**, **Bioinformatics**, **NLP**.
+- Contact me:yutongssss@outlook.com
 <p align="center">
     <a href="https://github.com/sweetyoungthing" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@sweetyoungthing-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 </p>
@@ -27,6 +28,16 @@
     <a href="https://github.com/sweetyoungthing" target="_blank"><img alt="sweetyoungthing" src="https://badges.pufler.dev/visits/sweetyoungthing/sweetyoungthing?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
     <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
     <a href="https://github.com/sweetyoungthing/sweetyoungthing" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/sweetyoungthing/sweetyoungthing?label=profile%20updated&style=flat-square"></a>
+</p>
+
+### 🤖 AI & MachineLearning
+<p> 
+  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,sklearn,opencv,numpy,scipy,pandas,matplotlib,seaborn"> 
+</p>
+
+### 💻 Web develop
+<p> 
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,vue,react,java,spring,flask">
 </p>
 
 <p align="center">
