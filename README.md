@@ -1,10 +1,9 @@
 <!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)--->
 
-<!---![YNU](https://app.svg.la/generate/67f75b3059113_20250410054624.svg)--->
-
 <div align="center">
-  <img src="[https://app.svg.la/generate/67f75b3059113_20250410054624.svg]" alt="SYT" width="60%">
+  <img src="https://app.svg.la/generate/67f75b3059113_20250410054624.svg" alt="YNU Logo" width="60%">
 </div>
+
 
 <p align="center">
     <a href="https://github.com/sweetyoungthing" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@sweetyoungthing-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
