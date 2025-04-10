@@ -38,11 +38,14 @@
 <p> 
   <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,sklearn,opencv,numpy,scipy,pandas,matplotlib,seaborn"> 
 </p>
-
 ### 💻 Web develop
 <p> 
   <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,vue,react,java,spring,flask">
 </p>
+
+<br><br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sweetyoungthing&theme=lucent)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </td>
 <td width="50%">
