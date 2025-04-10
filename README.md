@@ -58,9 +58,9 @@
 </table>
 
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sweetyoungthing&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sweetyoungthing&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555" width="100%">
 </p>
 <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetyoungthing&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" 
-         style="width: 450px; max-width: 800px;" /> 
+         style="width: 100%; max-width: 800px;" /> 
 </div>
