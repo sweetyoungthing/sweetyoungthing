@@ -45,5 +45,5 @@
 </p>
 <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetyoungthing&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" 
-         style="width: 45%; max-width: 800px;" /> 
+         style="width: 450px; max-width: 800px;" /> 
 </div>
