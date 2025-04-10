@@ -32,20 +32,24 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top" style="padding-right: 20px;">
 
 ### 🤖 AI & MachineLearning
-<p> 
-  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,sklearn,opencv,numpy,scipy,pandas,matplotlib,seaborn"> 
-</p>
+<div style="background: #f8f9fa; border-radius: 10px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <p align="center"> 
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,sklearn,opencv,numpy,scipy,pandas,matplotlib,seaborn" style="max-width: 100%;"> 
+  </p>
+</div>
 
-### 💻 Web develop
-<p> 
-  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,vue,react,java,spring,flask">
-</p>
+### 💻 Web Development
+<div style="background: #f8f9fa; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <p align="center">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,vue,react,java,spring,flask" style="max-width: 100%;">
+  </p>
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ![技术相关图片](images/14251744292106_.pic_hd.jpg)
 
