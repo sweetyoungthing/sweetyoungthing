@@ -5,9 +5,11 @@
 </div>
 
 
+# WHO I AM？
+- I am a student majoring in Software Engineering at Yunnan University.
+- My interests: DL, software development, LLM, CV, bioinformatics, NLP.
 <p align="center">
     <a href="https://github.com/sweetyoungthing" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@sweetyoungthing-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-
 </p>
 
 <p align="center">
