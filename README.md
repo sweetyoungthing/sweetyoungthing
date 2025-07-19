@@ -4,7 +4,7 @@
   <img src="https://app.svg.la/generate/67f75b3059113_20250410054624.svg" alt="YNU Logo" width="60%">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Simplified+Chinese&size=30&pause=1000&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B;Hello%2C+my+friend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Simplified+Chinese&size=30&duration=2500&pause=500&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B;Hello%2C+my+friend;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%2C%E7%A7%81%E3%81%AE%E5%8F%8B%E9%81%94%E3%81%A7%E3%81%99;Bonjour+mon+ami;Hola%2C+mi+amigo;Hallo%2C+mein+freund;Hallo%2C+mein+freund)](https://git.io/typing-svg)
 # WHO I AM？
 - I am a student majoring in Software Engineering at Yunnan University.
 - My interests: **Algorithm**, **DL**, **Software Development**, **LLM**, **CV**, **Bioinformatics**, **NLP**.
@@ -49,6 +49,10 @@
   </p>
 </div>
 
+<br><br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sweetyoungthing&theme=lucent)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </td>
 <td width="50%" valign="top">
 
@@ -59,9 +63,9 @@
 </table>
 
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sweetyoungthing&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sweetyoungthing&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555" width="100%">
 </p>
 <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetyoungthing&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" 
-         style="width: 450px; max-width: 800px;" /> 
+         style="width: 100%; max-width: 800px;" /> 
 </div>
