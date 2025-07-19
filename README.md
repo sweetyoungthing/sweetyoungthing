@@ -8,6 +8,7 @@
 # WHO I AM？
 - I am a student majoring in Software Engineering at Yunnan University.
 - My interests: **Algorithm**, **DL**, **Software Development**, **LLM**, **CV**, **Bioinformatics**, **NLP**.
+- My main research focus is on the **training, optimization, and application of LLMs**, with a particular emphasis on their applications in the fields of **education** and **coding**. A recent work on VLM has been submitted to CIKM 2025.
 - Contact me: yutongssss@outlook.com
 <p align="center">
     <a href="https://github.com/sweetyoungthing" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@sweetyoungthing-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
