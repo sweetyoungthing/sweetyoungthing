@@ -9,6 +9,7 @@
 - I am a student majoring in Software Engineering at Yunnan University. Incoming Master's student at the Institute of Software, Chinese Academy of Sciences (ISCAS) (Class of 2029).
 - My interests: **AI Safety**, **AI Agent**, **LLM4SE**, **LLM**.
 - Contact me: yutongssss@outlook.com
+<!--
 <p align="center">
     <a href="https://github.com/sweetyoungthing" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@sweetyoungthing-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 </p>
@@ -26,7 +27,7 @@
 <p align="center">
     <a href="https://github.com/sweetyoungthing?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
     <a href="https://github.com/sweetyoungthing" target="_blank"><img alt="sweetyoungthing" src="https://badges.pufler.dev/visits/sweetyoungthing/sweetyoungthing?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
+    <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-- >
     <a href="https://github.com/sweetyoungthing/sweetyoungthing" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/sweetyoungthing/sweetyoungthing?label=profile%20updated&style=flat-square"></a>
 </p>
 
@@ -68,3 +69,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetyoungthing&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" 
          style="width: 100%; max-width: 800px;" /> 
 </div>
+-->
