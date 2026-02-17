@@ -7,8 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Simplified+Chinese&size=30&duration=2500&pause=500&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B;Hello%2C+my+friend;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%2C%E7%A7%81%E3%81%AE%E5%8F%8B%E9%81%94%E3%81%A7%E3%81%99;Bonjour+mon+ami;Hola%2C+mi+amigo;Hallo%2C+mein+freund;Hallo%2C+mein+freund)](https://git.io/typing-svg)
 # WHO I AM？
 - I am a student majoring in Software Engineering at Yunnan University.
-- My interests: **AI Safety**, **AI Agent**, **LLM**.
-- My main research focus is on the **training, optimization, and application of LLMs**, with a particular emphasis on their applications in the fields of **education** and **coding**. A recent work on VLM has been submitted to CIKM 2025.
+- My interests: **AI Safety**, **AI Agent**, **LLM4SE**, **LLM**.
 - Contact me: yutongssss@outlook.com
 <p align="center">
     <a href="https://github.com/sweetyoungthing" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@sweetyoungthing-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
